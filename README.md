@@ -1,4 +1,4 @@
-# helpfull-bats
+# helpful-bats
 This repo contains bats for different funny parts
 
 1. First Bat
